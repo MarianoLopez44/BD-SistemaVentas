@@ -1,0 +1,6 @@
+C:\Users\Mariano\Desktop\Coviello\Tercer año\Técnicas Avanzadas de Programación\TP Final\Proyecto\ProyectoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Mariano\Desktop\Coviello\Tercer año\Técnicas Avanzadas de Programación\TP Final\Proyecto\ProyectoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Mariano\Desktop\Coviello\Tercer año\Técnicas Avanzadas de Programación\TP Final\Proyecto\ProyectoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Mariano\Desktop\Coviello\Tercer año\Técnicas Avanzadas de Programación\TP Final\Proyecto\ProyectoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\Desktop\Coviello\Tercer año\Técnicas Avanzadas de Programación\TP Final\Proyecto\ProyectoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Mariano\Desktop\Coviello\Tercer año\Técnicas Avanzadas de Programación\TP Final\Proyecto\ProyectoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb

@@ -1,0 +1,11 @@
+C:\Users\Mariano\Desktop\Coviello\Tercer año\Técnicas Avanzadas de Programación\TP Final\Proyecto\ProyectoSistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Mariano\Desktop\Coviello\Tercer año\Técnicas Avanzadas de Programación\TP Final\Proyecto\ProyectoSistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Mariano\Desktop\Coviello\Tercer año\Técnicas Avanzadas de Programación\TP Final\Proyecto\ProyectoSistemaVenta\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Mariano\Desktop\Coviello\Tercer año\Técnicas Avanzadas de Programación\TP Final\Proyecto\ProyectoSistemaVenta\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Mariano\Desktop\Coviello\Tercer año\Técnicas Avanzadas de Programación\TP Final\Proyecto\ProyectoSistemaVenta\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Mariano\Desktop\Coviello\Tercer año\Técnicas Avanzadas de Programación\TP Final\Proyecto\ProyectoSistemaVenta\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Mariano\Desktop\Coviello\Tercer año\Técnicas Avanzadas de Programación\TP Final\Proyecto\ProyectoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Mariano\Desktop\Coviello\Tercer año\Técnicas Avanzadas de Programación\TP Final\Proyecto\ProyectoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\Desktop\Coviello\Tercer año\Técnicas Avanzadas de Programación\TP Final\Proyecto\ProyectoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Mariano\Desktop\Coviello\Tercer año\Técnicas Avanzadas de Programación\TP Final\Proyecto\ProyectoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Mariano\Desktop\Coviello\Tercer año\Técnicas Avanzadas de Programación\TP Final\Proyecto\ProyectoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.pdb
